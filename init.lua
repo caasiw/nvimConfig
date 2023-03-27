@@ -1,0 +1,6 @@
+require("usr.options")
+require("usr.colorscheme")
+require("usr.keymaps")
+require("usr.plugins")
+require("usr.treesitter")
+require("usr.autopairs")
