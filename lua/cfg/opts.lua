@@ -7,5 +7,6 @@ vim.opt.number = true
 vim.opt.relativenumber = true
 vim.opt.sidescrolloff = 15
 vim.opt.scrolloff = 4
+vim.opt.colorcolumn = "81"
 
 vim.cmd [[let g:netrw_banner = 0]]
